@@ -1,0 +1,12 @@
+Source: ros-melodic-pyros-test
+Section: misc
+Priority: extra
+Maintainer: AlexV <asmodehn@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin (>= 0.6.18), ros-melodic-message-generation (>= 0.2.10), ros-melodic-roslint (>= 0.10.0), ros-melodic-rospy (>= 1.11.19), ros-melodic-rostest (>= 1.11.19), ros-melodic-rostopic (>= 1.11.19), ros-melodic-rosunit (>= 1.11.12), ros-melodic-std-msgs (>= 0.5.9)
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-pyros-test
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-message-runtime (>= 0.4.12), ros-melodic-rospy (>= 1.11.19), ros-melodic-std-msgs (>= 0.5.9)
+Description: Basic test nodes for Pyros dynamic ROS interface
