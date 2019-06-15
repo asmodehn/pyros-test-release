@@ -1,3 +1,26 @@
+## pyros_test (melodic) - 0.0.6-1
+
+The packages in the `pyros_test` repository were released into the `melodic` distro by running `/home/alexv/.local/bin/bloom-release pyros_test --track melodic --rosdistro melodic --new-track` on `Sat, 15 Jun 2019 09:26:14 -0000`
+
+The `pyros_test` package was released.
+
+Version of package(s) in repository `pyros_test`:
+
+- upstream repository: https://github.com/pyros-dev/pyros-test.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## pyros_test (lunar) - 0.0.6-1
 
 The packages in the `pyros_test` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar pyros_test --edit` on `Fri, 04 Aug 2017 07:54:01 -0000`
